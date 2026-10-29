@@ -80,7 +80,7 @@ Se você se interessa por desenvolvimento de software, automação ou tecnologia
 
 📧 **E-mail:** sabrina.s.furtado@gmail.com
 
-💼 **LinkedIn:** adicione aqui o link do seu perfil atual
+💼 **LinkedIn:** https://www.linkedin.com/in/sabrina-dos-santos-furtado-67374a185/
 
 ---
 
