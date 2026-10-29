@@ -44,7 +44,7 @@ Aplicação voltada à organização e ao controle financeiro, com funcionalidad
 
 **Foco:** desenvolvimento de aplicações, APIs, persistência de dados e organização de informações financeiras.
 
-🔗 Em breve: link do repositório
+🔗 https://www.happyfinance.com.br/
 
 #### 🤖 Automação de Processos (RPA)
 Experiência no desenvolvimento e na manutenção de automações utilizando ferramentas low-code e soluções com código, buscando reduzir atividades manuais e melhorar a eficiência dos processos.
